@@ -1,1 +1,2 @@
-# PRODIGY_CS_03
+#  Password Complexity Checker
+A Password Complexity Checker is a tool or software designed to evaluate the strength and security of passwords. It assesses various aspects of a password to determine how difficult it would be for an unauthorized user or automated system to guess or crack the password. The checker typically provides feedback on the password's complexity and suggests improvements if needed.
